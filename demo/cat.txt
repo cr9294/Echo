@@ -1,0 +1,13 @@
+根据您提供的信息和规则，如果您想要生成一个主题为“cat”（猫）的Stable Diffusion prompt，以下是详细的prompt和negative prompt：
+
+**Prompt:**
+`A serene cat with soft fur, green eyes, and a calm expression, lounging in a sunlit window, detailed whiskers, elegant posture, realistic texture, (best quality, 4k, 8k, highres, masterpiece:1.2), ultra-detailed, (realistic, photorealistic, photo-realistic:1.37), HDR, UHD, natural lighting, ultra-fine fur rendering, sharp focus, physically-based rendering, extreme detail description, professional, vibrant colors, gentle bokeh, oil painting style`
+
+**Negative Prompt:**
+`Negative Prompt: nsfw, (low quality, normal quality, worst quality, jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), skin spots, acnes, skin blemishes, age spot, mutated hands, mutated fingers, deformed, bad anatomy, disfigured, poorly drawn face, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, out of focus, long neck, long body, extra fingers, fewer fingers, (multi nipples), bad hands, signature, username, bad feet, blurry, bad body`
+
+在这个prompt中，我描述了一只拥有柔软毛发、绿色眼睛、平静表情的猫，它正懒洋洋地躺在洒满阳光的窗台上，具有详细的胡须、优雅的姿势和逼真的质感。同时，prompt还包括了图像质量、艺术风格和色彩色调等关键信息。
+
+Negative prompt列出了不希望出现在图像中的元素，包括常见的质量问题和一些特定于猫的解剖错误。
+
+请注意，这个prompt遵循了您提供的规则，如tag数量限制、关键词的顺序和使用的分隔符等。

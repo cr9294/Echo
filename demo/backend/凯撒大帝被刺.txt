@@ -1,0 +1,7 @@
+Prompt:
+Julius Caesar assassination, ancient Roman scene, detailed senators in togas, bloody knives, dramatic lighting, classical painting style, somber color tone, (best quality, 4k, highres, masterpiece:1.2), ultra-detailed, (realistic, photorealistic:1.37), historical
+
+Negative Prompt:
+nsfw, (low quality, normal quality, worst quality, jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), skin spots, acnes, skin blemishes, age spot, mutated hands, deformed, bad anatomy, disfigured, poorly drawn face, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, out of focus, long neck, long body, extra fingers, fewer fingers, (multi nipples), bad hands, signature, username, bad feet, blurry, bad body
+
+This prompt aims to capture the intense moment of Julius Caesar's assassination with a focus on historical accuracy and dramatic artistic expression, while the negative prompt ensures the image avoids any unwanted elements that could detract from the quality or theme.

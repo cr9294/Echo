@@ -1,0 +1,7 @@
+Prompt: 
+Antarctic landscape, vast glaciers, reflective ice sheet, majestic mountains in the backdrop, a pod of whales breaching in the distance, crystal clear waters with floating icebergs, vibrant blues and whites, high-resolution, realistic lighting, polar photography, cold color tone, Ansel Adams inspired.
+
+Negative Prompt: 
+Low quality, jpeg artifacts, cropped, monochrome, lowres, low saturation, out of focus, any human structures, skin spots, disfigured animals, bad anatomy, extra limbs, blurry, poorly drawn ice, unnatural colors, any text or watermarks. 
+
+(Please note, the prompt aims to capture the essence of the Antarctic landscape without including any human-made structures or any form of imperfection in the natural elements.)

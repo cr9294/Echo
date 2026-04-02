@@ -1,0 +1,3 @@
+Prompt: A serene landscape with a vibrant waterfall, cascading down moss-covered rocks into a crystal-clear pool, surrounded by lush greenery and delicate wildflowers, (best quality, 4k, highres, masterpiece:1.2), (realistic, photorealistic:1.37), ultra-detailed, nature photography, HDR, vivid colors, soft natural lighting.
+
+Negative Prompt: nsfw, (low quality, normal quality, worst quality, jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), man-made objects, urban settings, night scene, rain, snow, cloudy sky.

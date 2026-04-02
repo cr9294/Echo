@@ -1,0 +1,7 @@
+Prompt:
+Ming dynasty battle scene, the Jingnan Campaign, a conflict between the Yongle Emperor and the Jianwen Emperor, ancient Chinese armor and weapons, intense战场, red and gold hues, dynamic composition, traditional Chinese painting style, high resolution, (best quality, 4k, masterpiece:1.2), ultra-detailed, realistic figures, historical atmosphere, (sharp focus, vivid colors, studio lighting).
+
+Negative Prompt:
+(low quality, normal quality, worst quality), jpeg artifacts, cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), modern elements, anachronisms, skin spots, acnes, skin blemishes, deformed figures, bad anatomy, disfigured, poorly drawn face, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, out of focus, non-historical costumes. 
+
+(Please note that the prompt is designed to reflect a historical event while adhering to the restrictions and requirements provided.)

@@ -1,0 +1,7 @@
+Prompt:
+
+Prompt: historical document, Declaration of Independence, old parchment paper, ink quill, American colonial era, detailed calligraphy, grand hall interior, natural lighting, patriotic ambiance, high resolution, classical oil painting style, warm色调, (best quality,4k,8k,highres,masterpiece:1.2), (realistic,photorealistic,photo-realistic:1.37), ultra-detailed
+
+Negative Prompt: modern elements, digital font, bright colors, abstract art, low resolution, blurry, cropped, nsfw, (low quality,normal quality,worst quality,jpeg artifacts), monochrome, low saturation, ((watermark)), (white letters), mutated hands, bad anatomy, poorly drawn face, extra limb, ugly, blurry, bad body
+
+This prompt aims to create a high-quality image of the Declaration of Independence, portrayed in a classical oil painting style on old parchment paper, with an emphasis on historical authenticity and detail. The setting is a grand hall from the American colonial era, enhancing the patriotic ambiance with natural lighting. The negative prompt ensures the exclusion of unwanted elements and maintains the historical integrity of the image.

@@ -1,0 +1,9 @@
+Prompt:
+
+Christopher Columbus sailing,15th century navigator, serious expression, detailed historical costume, ocean waves, clear sky, high resolution, oil painting style, warm colors, natural lighting
+
+Negative Prompt:
+
+low quality, historical inaccuracies, modern elements, blurry details, dark and gloomy atmosphere, any form of mutilation or deformation, text or watermarks
+
+(This prompt aims to create an image of Christopher Columbus sailing with a focus on historical accuracy and an oil painting aesthetic, while avoiding any elements that may detract from the quality or historical integrity of the image.)

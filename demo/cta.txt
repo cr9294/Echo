@@ -1,0 +1,9 @@
+Prompt: 
+
+CTA button, sleek and modern design, bright contrasting colors, clickable texture,.internet marketing background, engaging copy, (best quality,4k,highres,masterpiece:1.2), ultra-detailed, (realistic,photorealistic:1.37), professional, vivid colors, sharp focus
+
+Negative Prompt: 
+
+(low quality, normal quality, worst quality, jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), outdated design, blurry text, plain background, unengaging copy
+
+This prompt focuses on creating a visually appealing and engaging Call-to-Action (CTA) button, emphasizing modern design, bright colors for contrast, and a texture that suggests clickability. It also includes internet marketing elements in the background and engaging copy to complete the scenario. The negative prompt ensures the avoidance of any elements that may detract from the professional and high-quality look of the CTA button.

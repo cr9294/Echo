@@ -1,0 +1,5 @@
+Prompt:
+A historic scene of the founding ceremony, a vast crowd at Tiananmen Square, Beijing, on October 1st, 1949, the FLAGS, red and yellow, fluttering in the wind, detailed and realistic faces of the leaders, Mao Zedong's determined expression, the rostrum adorned with traditional elements, the first national flag rising against the blue sky, (best quality,4k,8k,highres,masterpiece:1.2), ultra-detailed, (realistic,photorealistic,photo-realistic:1.37), HDR, UHD, historical, patriotic, vibrant colors, natural lighting.
+
+Negative Prompt:
+NSFW, (low quality,normal quality,worst quality,jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), skin spots, acnes, skin blemishes, age spot, mutated hands, mutated fingers, deformed, bad anatomy, disfigured, poorly drawn face, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, out of focus, long neck, long body, extra fingers, fewer fingers, (multi nipples), bad hands, signature, username, bad feet, blurry, bad body.

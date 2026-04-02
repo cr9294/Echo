@@ -1,0 +1,5 @@
+Prompt: A heroic figure in traditional Chinese attire, Cao Cao, amidst an assassination attempt, his expression serene yet commanding, surrounded by a chaos ofagitated officials and warrior guards, the scene dramatic with intense lighting and deep shadows, traditional Chinese architecture in the backdrop, intricate details in the facial features and robes, the atmosphere tense and filled with urgency, high resolution with a mix of realistic and traditional painting styles, warm and earthy color palette.
+
+Negative Prompt: No modern elements, no cartoonish features, no overly bright or neon colors, no blurry or out of focus imagery, no strange or deformed anatomy, no text or watermarks, no low-quality pixelations or jpeg artifacts, no skin blemishes or mutations, no signature or username visible. 
+
+(Please note that the prompt and negative prompt are created based on the historical theme provided, and they adhere to the guidelines of being concise, descriptive, and focused on both the subject matter and the desired image quality.)

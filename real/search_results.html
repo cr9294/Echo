@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>搜索结果</title>
+</head>
+<body>
+    <h1>搜索结果</h1>
+    <div id="searchResults">
+        <!-- 搜索结果将动态添加到此处 -->
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchQuery = urlParams.get('search');
+            const searchResultsDiv = document.getElementById('searchResults');
+
+            if (searchQuery) {
+                const searchQueryHeading = document.createElement('h2');
+                searchQueryHeading.textContent = '搜索结果：' + searchQuery;
+                searchResultsDiv.appendChild(searchQueryHeading);
+
+                // 发送AJAX请求以获取搜索结果
+                // 发送AJAX请求以获取搜索结果
+                const xhr = new XMLHttpRequest();
+                xhr.open('GET', '/search/?query=' + encodeURIComponent(searchQuery), true);  // 请求/search/端点，并传递搜索查询作为参数
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === XMLHttpRequest.DONE) {
+                        if (xhr.status === 200) {
+                            const searchResults = JSON.parse(xhr.responseText);
+
+                            if (searchResults.length > 0) {
+                                searchResults.forEach(result => {
+                                    const resultItem = document.createElement('p');
+                                    resultItem.textContent = result.title + ': ' + result.content;
+                                    searchResultsDiv.appendChild(resultItem);
+                                });
+                            } else {
+                                const noResultsMessage = document.createElement('p');
+                                noResultsMessage.textContent = '未找到搜索结果。';
+                                searchResultsDiv.appendChild(noResultsMessage);
+                            }
+                        } else {
+                            console.error('获取搜索结果时出错：' + xhr.status);
+                        }
+                    }
+                };
+                xhr.send();
+
+            } else {
+                const noQueryMessage = document.createElement('p');
+                noQueryMessage.textContent = '未提供搜索查询。';
+                searchResultsDiv.appendChild(noQueryMessage);
+            }
+        });
+    </script>
+</body>
+</html>

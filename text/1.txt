@@ -1,0 +1,3 @@
+Prompt: A serene landscape with a vibrant waterfall, cascading down into a crystalline pool surrounded by lush greenery, (best quality,4k,8k,highres,masterpiece:1.2), ultra-detailed, (realistic,photorealistic,photo-realistic:1.37), HDR, UHD, studio lighting, professional, vivid colors, bokeh, Impressionist style
+
+Negative Prompt: nsfw, (low quality,normal quality,worst quality,jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), buildings, pollution, trash, any humans or animals, supernatural elements

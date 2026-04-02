@@ -1,0 +1,7 @@
+Prompt:
+Japanese attack on Pearl Harbor, intense battle scene, fiery explosions, dark smoke, vintage black and white photography, dramatic lighting, Hawaiian landscape, (best quality,4k,highres,masterpiece:1.2), (realistic,photorealistic:1.37), HDR, historical, war
+
+Negative Prompt:
+nsfw, (low quality,normal quality,worst quality,jpeg artifacts), cropped, monochrome, lowres, low saturation, ((watermark)), (white letters), skin spots, acnes, skin blemishes, mutated hands, deformed, bad anatomy, disfigured, poorly drawn face, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, out of focus, signature, username
+
+This prompt aims to capture the historical event of the Japanese attack on Pearl Harbor, emphasizing the intense battle scene, dramatic lighting, and vintage black and white photography style to give it a historical feel. The negative prompt ensures the avoidance of unwanted elements and focuses on maintaining image quality and historical accuracy.
